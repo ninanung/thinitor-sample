@@ -1,2 +1,9 @@
 # thinitor-sample
-Thinitor's sample React.js project.
+
+[Thinitor](https://github.com/ninanung/Thinitor)'s sample project.
+
+### Start
+```
+npm install
+npm start
+```
